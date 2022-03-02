@@ -1,5 +1,3 @@
-import logo from './logo.svg';
-import './App.css';
 import amplitude from 'amplitude-js';
 import { useEffect } from 'react';
 
