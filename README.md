@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# Getting Started with Amplitude
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
@@ -16,7 +16,7 @@ You may also see any lint errors in the console.
 
 ### Description
 
-This Project is mainly to understand working of amplitude. this will act as a placeholder for any use case that can come in future related to FPC tracking
+This Project is mainly to understand working of amplitude. this will act as a placeholder for any use case that can come in future related to FPC tracking. Make Sure to use your own key for event tracking.
 
 ### Case 1:
 
